@@ -1,0 +1,6 @@
+print("Type the first number: ")
+number1 = input()
+print("Type the second number: ")
+number2 = input()
+sum = int(number1) + int(number2)
+print("The sum between " , number1 , " and " , number2 , " is: " , sum)
