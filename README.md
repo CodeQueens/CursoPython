@@ -1,4 +1,4 @@
-# Curso Python para Maratonas
+# Curso Python para Maratonas ✨
 
 Confira nosso primeiro curso online!
 Nosso intuito é favorecer conhecimentos de python para todos vocês! Qualquer dúvida só mandar no nosso instagram ou nos vídeos do YouTube, onde nosso curso está sendo disponibilizado.
